@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013585803452",
+    "project_id": "news-app-13b85",
+    "storage_bucket": "news-app-13b85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013585803452:android:2ff7f8c82a577decd938b9",
+        "android_client_info": {
+          "package_name": "btminh.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013585803452-h8k4pk3k0ve2e9u5dltkgts8reukl7pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "btminh.news_app",
+            "certificate_hash": "e2c518498832aaad4e7095e087ace6edf17144da"
+          }
+        },
+        {
+          "client_id": "1013585803452-ul091j0ssqept3ohpte24388n2cgoo9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgR4xXDacOi8auIqT0EbTodNZ03MfDzTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013585803452-ul091j0ssqept3ohpte24388n2cgoo9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
