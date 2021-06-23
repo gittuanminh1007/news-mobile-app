@@ -32,4 +32,4 @@ flask run --host=(IPv4 Adress)
 
 2. Sau khi clone thì có thể bắt đầu
 ```
-fl
+flask run
