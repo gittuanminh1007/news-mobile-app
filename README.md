@@ -9,7 +9,7 @@
 git clone https://github.com/gittuanminh1007/news-mobile-app.git
 ```
 
-3.  Để chạy được aspnetcore
+3.  Để chạy được Flask
 ```
 source venv/bin/activate
 pip install Flask
